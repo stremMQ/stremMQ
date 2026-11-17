@@ -2,15 +2,7 @@
 Разработчик, увлеченный созданием бэкенда. Изучаю Java и экосистему Spring, чтобы создавать надежные и масштабируемые приложения. Также пишу на Python и C++, разбираюсь в базах данных и люблю автоматизировать всё, что можно автоматизировать.
 
 🎯 Мой стек и навыки:
-  * Языки: Java, Python, C++
-
-  * Фреймворки и технологии: Spring, REST API, Tkinter / CustomTkinter
-
-  * Базы данных: MySQL, SQLite (умею писать SQL-запросы, проектировать структуру таблиц)
-
-  * Среда и инструменты: Linux, IntelliJ IDEA, PyCharm, Visual Studio Code, Git
-
-  * Концепции: OOP
+  
 ![DeepSeek](https://img.shields.io/badge/DeepSeek-%235786FE.svg?style=for-the-badge&logo=deepseek&logoColor=white)
 ![Google Drive](https://img.shields.io/badge/Google%20Drive-%234285F4.svg?style=for-the-badge&logo=googledrive&logoColor=white)
 ![Hyprland](https://img.shields.io/badge/Hyprland-%2358E1FF.svg?style=for-the-badge&logo=hyprland&logoColor=black)
@@ -40,6 +32,7 @@
 ![Arduino](https://img.shields.io/badge/Arduino-%2300979D.svg?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
 
 🚀 Мои проекты:
