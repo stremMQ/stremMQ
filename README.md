@@ -62,6 +62,8 @@
 работе!*
 ***
 
+![Snake animation](https://raw.githubusercontent.com/stremMQ/stremMQ/output/github-snake.svg)
+
 Связь:
 
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/925254927339642922)
