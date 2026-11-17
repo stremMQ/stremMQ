@@ -40,4 +40,4 @@
 ***
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=stremMQ&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=stremMQ&show_icons=true&theme=radical)
