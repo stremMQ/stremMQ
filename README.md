@@ -61,3 +61,8 @@
 для разработки качественного бэкенда. Всегда открыт к интересным задачам и совместной
 работе!*
 ***
+
+Связь:
+![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) [Discord](https://discord.com/users/925254927339642922)
+![Telegram](https://img.shields.io/badge/Telegram-%232CA5E0.svg?style=for-the-badge&logo=telegram&logoColor=white) [Telegram](https://t.me/ane2yco)
+![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white) [Gmail](smq892675@gmail.com)
