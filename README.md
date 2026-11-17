@@ -62,6 +62,8 @@
 работе!*
 ***
 
+![GitHub Stats](https://ССЫЛКА_ИЗ_VERCEL/api?username=stremMQ&show_icons=true&theme=radical&count_private=true)
+
 ![Snake animation](https://raw.githubusercontent.com/stremMQ/stremMQ/output/github-snake.svg)
 
 Связь:
