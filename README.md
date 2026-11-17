@@ -62,7 +62,7 @@
 работе!*
 ***
 
-![GitHub Stats](https://github-readme-stats-fawn-rho-11.vercel.app/api?username=stremMQ&show_icons=true&theme=onedark&count_private=true)
+![GitHub Stats](https://github-readme-stats-fawn-rho-11.vercel.app/api?username=stremMQ&show_icons=true&theme=synthwave&count_private=true)
 
 ![Snake animation](https://raw.githubusercontent.com/stremMQ/stremMQ/output/github-snake.svg)
 
